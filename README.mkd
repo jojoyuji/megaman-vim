@@ -1,0 +1,27 @@
+# megaman-vim - megaman  on vim
+
+
+    :source megaman.vim
+
+Enjoy it!
+
+To terminate animation, type anykey
+
+
+# Install
+
+You can install the plugin just copy "plugin" and "autoload" directories under
+your `~/.vim`.
+
+Or, you can use one of vim package managers, like pathogen or so.
+
+*   [pathogen](http://www.vim.org/scripts/script.php?script_id=2332)
+*   [Vundle](https://github.com/gmarik/vundle)
+*   [vim-plug](https://github.com/junegunn/vim-plug)
+
+After installation, you can start animation with below commands.
+
+    :Megaman
+
+
+## Based on [nyancat-vim](https://github.com/koron/nyancat-vim)
