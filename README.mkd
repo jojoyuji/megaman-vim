@@ -1,5 +1,6 @@
 # megaman-vim - megaman  on vim
 
+![Megaman on vim](https://raw.github.com/jojoyuji/megaman-vim/master/screenshots/preview.gif)
 
     :source megaman.vim
 
