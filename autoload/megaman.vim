@@ -265,7 +265,7 @@ function! s:GDocUpdate(doc, ev)
   " Check termination.
   if a:ev
     normal! ggdG
-    call s:CloseBuffer()
+    call CloseBuffer()
     return 0
   endif
 
